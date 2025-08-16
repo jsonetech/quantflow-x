@@ -1,0 +1,9 @@
+{
+  "redis_dir": "a:\\Desarrollos\\quantflow-x\\MCP\\Redis\\redis",
+  "redis_exe": "a:\\Desarrollos\\quantflow-x\\MCP\\Redis\\redis\\redis-server.exe",
+  "redis_cli": "a:\\Desarrollos\\quantflow-x\\MCP\\Redis\\redis\\redis-cli.exe",
+  "redis_conf": "a:\\Desarrollos\\quantflow-x\\MCP\\Redis\\redis\\redis.conf",
+  "redis_running": false,
+  "version": "5.0.14.1",
+  "startup_script": "a:\\Desarrollos\\quantflow-x\\MCP\\Redis\\start_redis.bat"
+}
